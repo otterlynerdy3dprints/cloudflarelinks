@@ -65,7 +65,7 @@
   body {
 	margin:0;
 	padding:0;
-	background-color:##0186AF;
+	background-color:#196da5;
 	color:#ffffff;
 	font-family:"Open Sans",system-ui;
 	font-size:1.125rem;     				/* 18px */
@@ -112,8 +112,8 @@
 
 /* Avatar */
 .avatar {
-	width: 8rem;             /* 128px */
-	height: 8rem;
+	width: 20rem;             /* 128px */
+	height: 20rem;
 	border-radius: 50%;
 	object-fit: cover;
 	background-position: center;
