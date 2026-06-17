@@ -68,6 +68,12 @@
   gap: 100px;                      /* Spacing between columns */
 }
 
+@media (max-width: 786px){
+	.grid-container {
+		grid-template-columns: 1fr;
+	}
+}
+
 /* Base Styles
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
   body {
