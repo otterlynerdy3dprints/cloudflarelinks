@@ -58,6 +58,12 @@
 .column:first-child,.columns:first-child {
 	margin-left:0;
 }
+
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* Two equal columns */
+  gap: 20px;                      /* Spacing between columns */
 }
 
 /* Base Styles
