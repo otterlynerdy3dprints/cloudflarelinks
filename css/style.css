@@ -71,6 +71,9 @@
 @media (max-width: 786px){
 	.grid-container {
 		grid-template-columns: 1fr;
+		position:center;
+		width:90%;
+		float:center;
 	}
 }
 
