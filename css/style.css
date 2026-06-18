@@ -168,8 +168,13 @@ body {
 
 /* Footer */
 footer {
-	margin:var(--spacing-xxl) 0;            /* 4rem (64px) top and bottom */
-    font-size:var(--scale-0);
+	/* margin:var(--spacing-xxl) 0; */            /* 4rem (64px) top and bottom */
+    /* font-size:var(--scale-0); */
+    display: table;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+	color:orange;
 }
 
 /* Responsive adjustments */
